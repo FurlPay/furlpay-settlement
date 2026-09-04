@@ -1,5 +1,7 @@
 # @furlpay/settlement
 
+![TypeScript](https://img.shields.io/badge/TypeScript-5.5-3178C6?logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%E2%89%A520-339933?logo=nodedotjs&logoColor=white) ![Edge runtime](https://img.shields.io/badge/Edge_runtime-compatible-000000?logo=vercel&logoColor=white) ![Dependencies](https://img.shields.io/badge/dependencies-0-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue)
+
 **When is a blockchain payment actually settled?**
 
 Every blockchain payment has two moments that public writing routinely conflates:
