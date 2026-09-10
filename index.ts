@@ -77,3 +77,15 @@ export {
   type PaymentStatus,
   type ReleaseDecision,
 } from "./src/lifecycle.js";
+
+export {
+  assessSettlement,
+  DEFAULT_GATE_POLICY,
+  STRICT_GATE_POLICY,
+  type ObservedCommitment,
+  type SettlementAssessment,
+  type SettlementDecision,
+  type SettlementEvidence,
+  type SettlementGatePolicy,
+  type SettlementReason,
+} from "./src/evidence.js";

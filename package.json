@@ -23,7 +23,7 @@
   ],
   "scripts": {
     "build": "tsc -p tsconfig.json",
-    "test": "npm run build && node --test dist/tests/chains.test.js dist/tests/alpenglow.test.js dist/tests/tiers.test.js dist/tests/lifecycle.test.js"
+    "test": "npm run build && node --test dist/tests/chains.test.js dist/tests/alpenglow.test.js dist/tests/tiers.test.js dist/tests/lifecycle.test.js dist/tests/evidence.test.js"
   },
   "keywords": [
     "settlement",
